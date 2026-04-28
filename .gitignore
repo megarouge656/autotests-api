@@ -1,0 +1,3 @@
+# Сгенерированные gRPC файлы
+user_service_pb2.py
+user_service_pb2_grpc.py
