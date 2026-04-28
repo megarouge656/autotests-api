@@ -18,3 +18,7 @@ env/
 .vscode/
 .idea/
 *.swp
+*.iml
+*.iws
+*.ipr
+.idea_modules/
